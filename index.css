@@ -1,0 +1,13 @@
+/* Write your code here. */
+.main {
+  text-align: center;
+  background-color: #0f172a;
+  padding: 40px;
+  font-family: Roboto;
+}
+.head {
+  color: #f8fafc;
+}
+.img {
+  height: 300px;
+}
